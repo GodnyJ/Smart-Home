@@ -2,9 +2,11 @@
 
 https://github.com/GodnyJ/Smart-Home/assets/146650429/af5c43ae-960d-4696-b51e-794c85f72205
 
+
+
 If you want to run the application correctly, you need to paste your [API Key](https://openweathermap.org/api) in the App.js file.
 
-https://github.com/GodnyJ/Smart-Home/assets/146650429/b3147765-776d-4fb6-bd78-7b36bf1fdc96
+![image](https://github.com/GodnyJ/Smart-Home/assets/146650429/b3147765-776d-4fb6-bd78-7b36bf1fdc96)
 
 
 # Getting Started with Create React App
